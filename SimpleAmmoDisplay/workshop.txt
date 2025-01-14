@@ -1,0 +1,13 @@
+version=1
+id=
+title=Simple Ammo Display
+description=A simple UI mod that shows the current ammunition count for equipped firearms, including chambered rounds. The display window can be dragged around the screen and shows ammunition status with color-coding.
+
+Features:
+- Displays current/maximum ammunition for equipped firearms
+- Shows chambered round status (+1 indicator)
+- Color-coded ammunition status (red for low, yellow for medium, white for full)
+- Draggable interface
+- Supports both Build 41 and Build 42
+tags=Build 41,Build 42,Interface,Weapons
+visibility=public

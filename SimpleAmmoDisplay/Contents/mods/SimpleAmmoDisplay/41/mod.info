@@ -1,0 +1,4 @@
+name=Simple Ammo Display
+id=SimpleAmmoDisplay
+description=Shows current ammo count for equipped firearms
+poster=poster.png
